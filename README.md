@@ -1,2 +1,2 @@
 # project_transformer
-# my own training course for vision transformer
+my own training course for vision transformer
